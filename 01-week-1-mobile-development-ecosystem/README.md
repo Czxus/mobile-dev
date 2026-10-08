@@ -1,7 +1,7 @@
 # Laporan Praktikum Modul 01: Mobile Ecosystem, Flutter Setup & Profile App
 
-- **Nama**: Muhammad Yoga Permana Yudya
-- **NIM**: 362558302118
+- **Nama**: Aqmal Raditya P
+- **NIM**: 362558302059
 - **Kelas / Prodi**: 2A / TRPL
 - **Mata Kuliah**: Pemrograman Perangkat Bergerak (Semester 3)
 

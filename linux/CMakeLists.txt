@@ -4,10 +4,10 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "tugas_362558302118_yoga_permana")
+set(BINARY_NAME "tugas_362558302059_aqmal_raditya_p")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.example.tugas_362558302118_yoga_permana")
+set(APPLICATION_ID "com.example.tugas_362558302059_aqmal_raditya_p")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

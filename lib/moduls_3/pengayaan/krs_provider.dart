@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:tugas_362558302118_yoga_permana/moduls_3/models/krs_course.dart';
+import 'package:tugas_362558302059_aqmal_raditya_p/moduls_3/models/krs_course.dart';
 
 class KrsNotifier extends Notifier<List<KrsCourse>> {
   @override

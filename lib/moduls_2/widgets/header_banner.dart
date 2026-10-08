@@ -8,7 +8,7 @@ class HeaderBanner extends StatelessWidget {
   const HeaderBanner({
     super.key,
     this.studentName = 'Mahasiswa TRPL',
-    this.nim = '362558302118',
+    this.nim = '362558302059',
   });
 
   @override

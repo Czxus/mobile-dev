@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_362558302118_yoga_permana/moduls_4/modul_04_app.dart';
+import 'package:tugas_362558302059_aqmal_raditya_p/moduls_4/modul_04_app.dart';
 
 void main() {
   runApp(const PoliwangiProfileApp());
@@ -68,7 +68,7 @@ class ProfileScreen extends StatelessWidget {
 
               // Nama mahasiswa
               const Text(
-                'Muhammad Yoga Permana Yudya', // Ganti dengan nama asli Anda
+                'Aqmal Raditya P', // Ganti dengan nama asli Anda
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
@@ -88,7 +88,7 @@ class ProfileScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(20),
                 ),
                 child: const Text(
-                  'NIM: 362558302118', // Ganti dengan NIM asli Anda
+                  'NIM: 362558302059', // Ganti dengan NIM asli Anda
                   style: TextStyle(
                     fontSize: 13,
                     fontWeight: FontWeight.w600,
@@ -137,7 +137,7 @@ class ProfileScreen extends StatelessWidget {
                       _InfoRow(
                         icon: Icons.link_rounded,
                         label: 'Reporsitory-GitHub',
-                        value: 'https://github.com/permana16.git',
+                        value: 'https://github.com/Czxus/mobile-dev.git',
                       ),
                       Divider(height: 24, color: Color(0xFFF1F5F9)),
                       _InfoRow(

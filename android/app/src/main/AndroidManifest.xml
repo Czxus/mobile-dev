@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="tugas_362558302118_yoga_permana"
+        android:label="tugas_362558302059_aqmal_raditya_p"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

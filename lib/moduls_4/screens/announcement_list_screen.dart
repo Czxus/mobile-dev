@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:tugas_362558302118_yoga_permana/moduls_4/models/announcement.dart';
-import 'package:tugas_362558302118_yoga_permana/moduls_4/services/announcement_api.dart';
-import 'package:tugas_362558302118_yoga_permana/moduls_4/widgets/announcement_card.dart';
+import 'package:tugas_362558302059_aqmal_raditya_p/moduls_4/models/announcement.dart';
+import 'package:tugas_362558302059_aqmal_raditya_p/moduls_4/services/announcement_api.dart';
+import 'package:tugas_362558302059_aqmal_raditya_p/moduls_4/widgets/announcement_card.dart';
 
 class AnnouncementListScreen extends StatefulWidget {
   const AnnouncementListScreen({super.key, this.api});

@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(tugas_362558302118_yoga_permana LANGUAGES CXX)
+project(tugas_362558302059_aqmal_raditya_p LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "tugas_362558302118_yoga_permana")
+set(BINARY_NAME "tugas_362558302059_aqmal_raditya_p")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
